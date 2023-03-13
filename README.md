@@ -21,9 +21,9 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
-| 🎬 [Marketing Analytics Case Study - Ongoing](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md)  |  |  | 
-| 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | |  
+| 🛍 [Data Automation Intergration](https://github.com/ToniRose92/D191-AUTOMATING-DATA-INTEGRATION) |The business report aims to determine the highest grossing postal codes within districts each quarter, which can be used by stakeholders to identify areas for opening new stores or stores that need to be reviewed for closure. The report involves data extraction, table creation, custom transformation, and trigger development using SQL. | _SQL, data extraction, data transformation, table creation, trigger development_ |  
+| Guieded 🎬 [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
+
 
 ***
 
@@ -35,7 +35,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 [TMDb Movie Analysis]([(https://github.com/ToniRose92/TMDb-Movies)])|   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
+| 📺 [TMDb Movie Analysis](https://github.com/ToniRose92/TMDb-Movies)|   Data Wrangling & EDA | This project is a data analysis of the TMDb Movies dataset using Python, exploring the relationships between variables and identifying insights to inform business decisions. The project analyzes various factors that contribute to a movie's success, such as budget, genre, and release date, and visualizes the findings using Matplotlib and Seaborn. | _numpys, pandas, matplotlib, seaborn_ |   
 
 
 # Tableau
