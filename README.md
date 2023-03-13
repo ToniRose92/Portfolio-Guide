@@ -22,7 +22,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | Project Name | Description | SQL Functions |
 |---|---|---|
 | 🛍 [Data Automation Intergration](https://github.com/ToniRose92/D191-AUTOMATING-DATA-INTEGRATION) |The business report aims to determine the highest grossing postal codes within districts each quarter, which can be used by stakeholders to identify areas for opening new stores or stores that need to be reviewed for closure. The report involves data extraction, table creation, custom transformation, and trigger development using SQL. | _SQL, data extraction, data transformation, table creation, trigger development_ |  
-| Guieded 🎬 [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
+| Guided 🎬 [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
 
 
 ***
