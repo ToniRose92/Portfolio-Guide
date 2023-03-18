@@ -1,6 +1,6 @@
 # 🗺 Portfolio Guide
 
-Hi there! 🙋🏻‍♀️
+Hi there! :wave:
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
