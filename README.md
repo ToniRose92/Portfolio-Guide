@@ -22,7 +22,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | Project Name | Description | SQL Functions |
 |---|---|---|
 | :vhs: [Data Automation Integration](https://github.com/ToniRose92/D191-AUTOMATING-DATA-INTEGRATION) | The business report aims to determine the highest grossing postal codes within districts each quarter, which can be used by stakeholders to identify areas for opening new stores or stores that need to be reviewed for closure. The report involves data extraction, table creation, custom transformation, and trigger development using SQL. | _`SQL`, `data extraction`, `data transformation`, `table creation`, `trigger development`_ |  
-| :radio: [Sparkify Data Pipeline & Database](https://github.com/ToniRose92/Sparkify-Data-Pipeline-Database)   | This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables.	  | _`SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN`, `GROUP BY`, `ORDER BY`, `COUNT`, `DISTINCT`, `LIMIT`_ `python`|
+| :radio: [Sparkify Data Pipline & Database](https://github.com/ToniRose92/Sparkify-Data-Pipline-Database)   | This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables.	  | _`SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN`, `GROUP BY`, `ORDER BY`, `COUNT`, `DISTINCT`, `LIMIT`_ `python`|
 | Guided :iphone: [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
 
 
