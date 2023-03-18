@@ -21,8 +21,9 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Data Automation Intergration](https://github.com/ToniRose92/D191-AUTOMATING-DATA-INTEGRATION) |The business report aims to determine the highest grossing postal codes within districts each quarter, which can be used by stakeholders to identify areas for opening new stores or stores that need to be reviewed for closure. The report involves data extraction, table creation, custom transformation, and trigger development using SQL. | _SQL, data extraction, data transformation, table creation, trigger development_ |  
-| Guided 🎬 [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
+| :vhs: [Data Automation Intergration](https://github.com/ToniRose92/D191-AUTOMATING-DATA-INTEGRATION) |The business report aims to determine the highest grossing postal codes within districts each quarter, which can be used by stakeholders to identify areas for opening new stores or stores that need to be reviewed for closure. The report involves data extraction, table creation, custom transformation, and trigger development using SQL. | _SQL, data extraction, data transformation, table creation, trigger development_ |  
+| :radio: # [Sparkify Data Pipeline & Database](https://github.com/ToniRose92/Sparkify-Data-Pipline-Database)   |This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables.	  | _SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, ORDER BY, COUNT, DISTINCT, LIMIT_ [Python](#py)|
+| Guided :iphone: [Ultimate My SQL BootCamp - Upcoming]()  |  |  | 
 
 
 ***
@@ -31,11 +32,12 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 Skills: Data cleaning, wrangling, visualisation, analysis
 
-Libraries: pandas, numpy, matplotlib, seaborn
+Libraries: pandas, numpy, matplotlib, seaborn, os, glob
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 [TMDb Movie Analysis](https://github.com/ToniRose92/TMDb-Movies)|   Data Wrangling & EDA | This project is a data analysis of the TMDb Movies dataset using Python, exploring the relationships between variables and identifying insights to inform business decisions. The project analyzes various factors that contribute to a movie's success, such as budget, genre, and release date, and visualizes the findings using Matplotlib and Seaborn. | _numpys, pandas, matplotlib, seaborn_ |   
+| 📺 [TMDb Movie Analysis](https://github.com/ToniRose92/TMDb-Movies)|   Data Wrangling & EDA |This project is a data analysis of the TMDb Movies dataset using Python, exploring the relationships between variables and identifying insights to inform business decisions. The project analyzes various factors that contribute to a movie's success, such as budget, genre, and release date, and visualizes the findings using Matplotlib and Seaborn. | _numpys, pandas, matplotlib, seaborn_ |   
+| :radio: # py [Sparkify Data Pipeline & Database](#[Sparkify Data Pipeline & Database])	| Data Wrangling & ETL Pipline  |This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables. It also involves data wrangling and cleaning to prepare the data for loading into the database.  | _os, glob, psycopg2, pandas_
 
 
 # Tableau
