@@ -30,16 +30,16 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 # Python
 
-Skills: Data cleaning, wrangling, visualisation, analysis
+Skills: Data cleaning, wrangling, visualization, analysis, A/B testing
 
-Libraries: pandas, numpy, matplotlib, seaborn, os, glob
+Libraries: pandas, numpy, matplotlib, seaborn, os, glob, scipy
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [TMDb Movie Analysis](https://github.com/ToniRose92/TMDb-Movies)| Data Wrangling & EDA | This project is a data analysis of the TMDb Movies dataset using Python, exploring the relationships between variables and identifying insights to inform business decisions. The project analyzes various factors that contribute to a movie's success, such as budget, genre, and release date, and visualizes the findings using Matplotlib and Seaborn. | _`numpy`, `pandas`, `matplotlib`, `seaborn`_ |   
 | :radio: [Sparkify Data Pipline & Database](https://github.com/ToniRose92/Sparkify-Data-Pipline-Database)	| Data Wrangling & ETL Pipline  | This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables. It also involves data wrangling and cleaning to prepare the data for loading into the database.  | _`os`, `glob`, `psycopg2`, `pandas`_ `SQL` |
 | 💸 [CharityML Project - Finding Donors](https://github.com/ToniRose92/CharityML-Project---Finding-Donors)	| Supervised Learning  | Build and optimize a model to predict income for individuals to target donations for a charity organization.  | _`numpy`, `matplotlib`, `scikit-learn`, `pandas`_  |
-
+| 💻[Website A/B Testing Analysis](https://github.com/ToniRose92/Website-A-B-Test-Analysis)	|  A/B Testing   |  Analyze the results of a website A/B test to determine which variation is more effective in terms of user engagement and conversion rate. The project uses statistical methods, including hypothesis testing and confidence intervals, and visualizations to draw insights from the data.    |  _`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`_   |
 
 # Tableau
 
