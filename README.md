@@ -40,9 +40,13 @@ Libraries: pandas, numpy, matplotlib, seaborn, os, glob, scipy
 | 📻: [Sparkify Data Pipline & Database](https://github.com/ToniRose92/Sparkify-Data-Pipline-Database)	| Data Wrangling & ETL Pipline  | This project involves building an ETL pipeline to extract data from JSON files containing music streaming data, transforming the data to fit a structured database schema using a star schema, and loading the data into the corresponding tables. It also involves data wrangling and cleaning to prepare the data for loading into the database.  | _`os`, `glob`, `psycopg2`, `pandas`_ `SQL` |
 | 💸 [CharityML Project - Finding Donors](https://github.com/ToniRose92/CharityML-Project---Finding-Donors)	| Supervised Learning  | Build and optimize a model to predict income for individuals to target donations for a charity organization.  | _`numpy`, `matplotlib`, `scikit-learn`, `pandas`_  |
 | 💻[Website A/B Testing Analysis](https://github.com/ToniRose92/Website-A-B-Test-Analysis)	|  A/B Testing   |  Analyze the results of a website A/B test to determine which variation is more effective in terms of user engagement and conversion rate. The project uses statistical methods, including hypothesis testing and confidence intervals, and visualizations to draw insights from the data.    |  _`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`_   |
+| In progress : [Analysis of User Behavior in Entertainment Consumption](https://github.com/ToniRose92/User-Behavior-in-Entertainment-Consumption#3) | | | |
+
+***
 
 # Tableau
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| Upcoming |  |  |
+| [Explore the US Census 2015](https://github.com/ToniRose92/Explore-US-Census-2015) | Tableau dashboard analyzing poverty rates by race and gender across US counties, revealing significant disparities and highlighting the need for tailored interventions. | [Poverty Rates by Race and Gender Across US Counties (US Census 2015)](https://public.tableau.com/app/profile/toni.garay/viz/PovertyRatesbyRaceandGenderAcrossUSCounties/PovertyRatesbyRaceandGenderAcrossUSCounties) |
+| | Tableau story exploring variations in employment rates across US counties by work type, identifying patterns and disparities in median household income. | [Employment Rate Variations by Work Type and Gender in the United States (US Census 2015)](https://public.tableau.com/app/profile/toni.garay/viz/ExploreEmploymentRatesbyWorkTypeUSCensus2015/EmploymentRateVariationsbyWorkTypeandGenderintheUnitedStates) |
