@@ -1,31 +1,3 @@
-I agree with your idea of listing the experience-based projects first, as it places the focus on your practical, real-world work right away. This can be especially appealing to recruiters or potential collaborators looking for demonstrated, actionable skills.
-
-### Suggestions for updates:
-1. **Project Summaries:**
-   - **Experience-based Projects:** Since these projects are more work-ready, consider adding a brief "Impact" or "Outcome" section to each. This can highlight the results or insights delivered to stakeholders. For example:
-     - **PostgreSQL Data Integration Project**: Impact: "Enabled stakeholders to identify high-potential areas for new store locations."
-   - **Learning-based Projects:** You could include a "Key Learning" or "Skills Gained" section to better demonstrate your progress and takeaways.
-
-2. **Skill Highlighting:**
-   - Under each project, include a short "Skills Used" section in addition to the libraries and functions. This will highlight soft skills like problem-solving, critical thinking, and communication, which are valuable in real-world applications.
-     - Example: For the **Website A/B Testing Analysis**, you could add "Skills Used: Hypothesis testing, decision-making under uncertainty, communicating insights."
-
-3. **Visual Elements:**
-   - Since your portfolio already links to Tableau and GitHub, consider embedding interactive elements, like small snippets of visual dashboards or screenshots from key projects. This would make your portfolio visually appealing and emphasize your capability to present data well.
-
-4. **Completion Dates:**
-   - Including the dates for when you completed or worked on each project (even approximate ones like "Summer 2024" or "In Progress") can show your growth and current proficiency.
-
-5. **Certifications or Courses:**
-   - If you have taken any notable courses or achieved certifications (especially related to SQL, Python, Tableau, or Data Analytics), listing these in a short section before your projects could bolster credibility. Alternatively, you could mention them alongside the relevant projects if the learning directly contributed to the work.
-
-6. **Link to Resume:**
-   - Adding a direct link to your resume could be helpful for recruiters to quickly access your work history and other experience.
-
-### Revised Structure:
-
----
-
 # 🗺 Portfolio Guide
 
 Hi there! :wave:
@@ -85,7 +57,3 @@ These projects showcase my ability to learn and apply key data analytics skills 
 | 💸 [CharityML Project - Finding Donors](https://github.com/ToniRose92/CharityML-Project---Finding-Donors) | Supervised Learning | Build and optimize a model to predict income for targeting potential donors for a charity organization. **Key Learning:** Machine learning model optimization. | _`numpy`, `matplotlib`, `scikit-learn`, `pandas`_ |  
 | 💻 [Website A/B Testing Analysis](https://github.com/ToniRose92/Website-A-B-Test-Analysis) | A/B Testing | Analyze website A/B test results to determine which variation leads to better user engagement and conversion rates, using statistical methods like hypothesis testing and confidence intervals. **Key Learning:** Hypothesis testing, decision-making with data. | _`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`_ |  
 | In progress : [Game to Movie Adaptation](https://github.com/ToniRose92/Game-to-Movie-Adaptation) | Data Wrangling & EDA | Investigates the impact of movie and TV adaptations on video game sales and reception, exploring the relationship between adaptations and game sales. **Key Learning:** Exploratory Data Analysis (EDA) and data collection using web scraping. | _`numpy`, `matplotlib`, `pandas`, `seaborn`, `requests`, `BeautifulSoup`_ | 
-
----
-
-By leading with your most job-ready projects, you’ll give your audience a clear picture of your capabilities and professional experience, while still showcasing your learning journey.
