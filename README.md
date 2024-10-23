@@ -43,12 +43,6 @@ These projects reflect practical, real-world applications that deliver results f
 
 These projects showcase my ability to learn and apply key data analytics skills in a structured environment. They reflect self-guided learning and exploration of various tools and techniques.
 
-### SQL
-
-| Project Name | Description | SQL Functions |
-|---|---|---|
-| Guided :iphone: Ultimate My SQL BootCamp - Upcoming | An upcoming project as part of a guided bootcamp that will focus on foundational SQL techniques. |  |
-
 ### Python
 
 | Project Name | Area | Description | Libraries |  
